@@ -1,3 +1,5 @@
+//author:James Tellez
+
 package theResponder;
 
 import java.util.Scanner;
